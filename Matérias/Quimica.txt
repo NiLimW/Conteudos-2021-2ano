@@ -16,3 +16,9 @@ Quimica 2
 QUÍMICA 1
 -Cálculo Estequiométrico
 -Estudo dos Gases
+
+QUÍMICA 2
+- Estabilidade das moléculas (gráfico) 
+- Estrutura de Lewis das moléculas 
+- Carga formal
+- Obs.: Tudo isso dentro de ligação covalente

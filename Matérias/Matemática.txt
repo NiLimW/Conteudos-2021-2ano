@@ -16,7 +16,10 @@ Mat. 2
 
 --AVU 1--
 MATEMÁTICA 1
--Capítulos 1, 2 e 3
+- Triângulo Retângulo
+- Relações Trigonométricas
+- Lei dos senos e dos cossenos
+- Ciclo Trigonométrico
 
 MATEMÁTICA 2 
 -Log
